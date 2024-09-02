@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/ping.dir/main.cpp.o CMakeFiles/ping.dir/src/body/ball.cpp.o CMakeFiles/ping.dir/src/body/paddle.cpp.o CMakeFiles/ping.dir/src/body/ai_paddle.cpp.o -o ping  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.so -L/usr/local/lib -lraylib 

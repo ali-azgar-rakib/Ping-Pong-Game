@@ -1,0 +1,3 @@
+/mnt/3C14D7F414D7AF60/code/c++/raylib_projects/pingpong/build/CMakeFiles/ping.dir
+/mnt/3C14D7F414D7AF60/code/c++/raylib_projects/pingpong/build/CMakeFiles/edit_cache.dir
+/mnt/3C14D7F414D7AF60/code/c++/raylib_projects/pingpong/build/CMakeFiles/rebuild_cache.dir
